@@ -17,3 +17,4 @@ attempted backgroud sync
 ## a new header
 
 Android text! 
+and ipad rtext
